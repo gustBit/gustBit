@@ -1,6 +1,6 @@
 ![MasterHead](banner.png)
 
-<img align="right" alt="coding" width=400 src="gif.png">
+<img align="right" alt="coding" width=400 src="git.gif">
 
 <h3 align="left">Alguns lugares que eu uso :3</h3>
 <p align="left">
