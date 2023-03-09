@@ -15,7 +15,7 @@
 <img src="https://img.icons8.com/color/48/null/javascript--v1.png"/>
 
 <h3 aligh="left">About Me:</h3>
-<p align="left">Olá, seja <b>Bem-Vindo(a)</b> ao meu git. Meu nome é Gustavo sou professor de Inglês e estudante de programação, e de vez em quando me divirto Noobando alguns jogos por ai!</p>
+<p align="left">Olá, seja <b>Bem-Vindo(a)</b> ao meu git. Meu nome é Gustavo sou (Ex)professor de Inglês e estudante de programação, e de vez em quando me divirto Noobando alguns jogos por ai!</p>
 
 <h3 align="left">Linguagem que quero estudar:</h3>
 
