@@ -25,7 +25,7 @@
 <img src="img/python.svg" width = 40 />
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0EF714&width=435&lines=Please+stand+by...;I+will+go++get+my+coffe." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=E21D46&width=435&lines=Please+stand+by...;I+will+get+my+coffee.)](https://git.io/typing-svg)" alt="Typing SVG" /></a>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=devgustaR&theme=github-dark)](https://git.io/streak-stats)
 
