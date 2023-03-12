@@ -1,29 +1,28 @@
 ![MasterHead](banner.png)
 
 <img align="right" alt="coding" width=400 src="git.gif">
-
-<h3 align="left">Alguns lugares que eu uso :3</h3>
-<p align="left">
-<a href="seu link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40"/></a>
-<a href="seu link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="seu link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-<a href="seu link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
-</p>
-<h3 align="left">Linguagem que estou estudando:</h3>
-<p align="left"> <img src="https://img.icons8.com/color/48/null/css3.png"/>
-<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/external-html-5-is-a-software-solution-stack-that-defines-the-properties-and-behaviors-of-web-page-logo-shadow-tal-revivo.png"/>
-<img src="https://img.icons8.com/color/48/null/javascript--v1.png"/>
-
 <h3 aligh="left">About Me:</h3>
-<p align="left">Olá, seja <b>Bem-Vindo(a)</b> ao meu git. Meu nome é Gustavo sou (Ex)professor de Inglês e estudante de programação, e de vez em quando me divirto Noobando alguns jogos por ai!</p>
+<p align="left">Olá, seja <b>Bem-Vindo(a)</b> ao meu git. Meu nome é <b>Gustavo</b> ja fui professor de Inglês e agora estou em busca de me aprender  programação mais voltado para <strong>Back-end</strong> e <strong>Game Developer</strong>, e de vez em quando me divirto Noobando alguns jogos por ai!</p>
 
-<h3 align="left">Linguagem que quero estudar:</h3>
+<h1 align="left"><strong> Alguns lugares que eu uso :3</h1>
+<p align="left">
+<a href="seu link" target="blank"><img align="center" src="img/twitter.svg" alt="" height="64" width="64"/></a>
+<a href="seu link" target="blank"><img align="center" src="img/ID.svg" alt="" height="64" width="64" /></a>
+<a href="seu link" target="blank"><img align="center" src="img/instagram.svg" alt="" height="64" width="64" /></a>
+<a href="seu link" target="blank"><img align="center" src="img/youtube.svg" alt="" height="64" width="64" /></a>
+</p>
+<h2 align="left"><strong>MINHAS SKILLS:</h2>
+<p align="left"> <img src="img/css.png"/>
+<img src="img/html.png"/>
+<img src="img/lua.svg"/>
 
-<img src="https://img.icons8.com/fluency/28/null/java-coffee-cup-logo.png"/>
-<img src="https://img.icons8.com/color/28/null/c-plus-plus-logo.png"/>
-<img src="https://img.icons8.com/color/28/null/c-sharp-logo-2.png"/>
-<img src="https://img.icons8.com/color/28/null/python--v1.png"/>
-<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/28/null/external-lua-is-a-lightweight-multi-paradigm-programming-language-logo-shadow-tal-revivo.png"/>
+
+<h2 align="left"><strong>Linguagem que irei estudar:</h2>
+
+<img src="img/java.svg" width = 40/>
+<img src="img/C++.svg" width = 40 />
+<img src="img/C.svg" width = 40/>
+<img src="img/python.svg" width = 40 />
 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0EF714&width=435&lines=Please+stand+by...;I+will+go++get+my+coffe." alt="Typing SVG" /></a>
