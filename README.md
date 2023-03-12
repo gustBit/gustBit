@@ -6,10 +6,10 @@
 
 <h1 align="left"><strong> Alguns lugares que eu uso :3</h1>
 <p align="left">
-<a href="seu link" target="blank"><img align="center" src="img/twitter.svg" alt="" height="64" width="64"/></a>
-<a href="seu link" target="blank"><img align="center" src="img/ID.svg" alt="" height="64" width="64" /></a>
-<a href="seu link" target="blank"><img align="center" src="img/instagram.svg" alt="" height="64" width="64" /></a>
-<a href="seu link" target="blank"><img align="center" src="img/youtube.svg" alt="" height="64" width="64" /></a>
+<a href="https://twitter.com/GuhstavoZxx" target="blank"><img align="center" src="img/twitter.svg" alt="" height="64" width="64"/></a>
+<a href="https://www.linkedin.com/in/gustavo-r/" target="blank"><img align="center" src="img/ID.svg" alt="" height="64" width="64" /></a>
+<a href="https://www.instagram.com/guhstavo.r/" target="blank"><img align="center" src="img/instagram.svg" alt="" height="64" width="64" /></a>
+<a href="https://www.youtube.com/channel/UCdYmlsE51bK_NhNrTyRtBJQ" target="blank"><img align="center" src="img/youtube.svg" alt="" height="64" width="64" /></a>
 </p>
 <h2 align="left"><strong>MINHAS SKILLS:</h2>
 <p align="left"> <img src="img/css.png"/>
