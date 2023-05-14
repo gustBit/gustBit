@@ -32,4 +32,4 @@
 ![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustBit&show_icons=true&theme=dracula)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=devgustaR&theme=dracula)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=gustBit&theme=dracula)](https://git.io/streak-stats)
