@@ -2,7 +2,7 @@
 
 <img align="right" alt="coding" width=400 src="git.gif">
 <h3 aligh="left">About Me:</h3>
-<p align="left">Olá, seja <b>Bem-Vindo(a)</b> ao meu git. Meu nome é <b>Gustavo</b> ja fui professor de Inglês e agora estou em busca de me aprender  programação mais voltado para <strong>Back-end</strong> e <strong>Game Developer</strong>, e de vez em quando me divirto Noobando alguns jogos por ai!</p>
+<p align="left">Olá, seja <b>Bem-Vindo(a)</b> ao meu git. Meu nome é <b>Gustavo</b> ja fui professor de Inglês e agora estou em busca de me aprender  programação mais voltado para <strong>Back-end</strong> e <strong>Game Developer</strong> na verdade gosto de <strong>Front-end</strong> também :), e de vez em quando me divirto Noobando alguns jogos por ai!</p>
 
 <h1 align="left"><strong> Alguns lugares que eu uso :3</h1>
 <p align="left">
